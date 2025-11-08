@@ -1,1 +1,1 @@
-# Assignment-2-LinuxOS-Custom-Shell-Implementation
+# Capstone-Project-2-LinuxOS-Custom-Shell-Implementation
